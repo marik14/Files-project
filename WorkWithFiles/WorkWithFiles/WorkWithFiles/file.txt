@@ -1,0 +1,18 @@
+Owner Name:אסף
+ Bussiness He Own:,טסלה
+ Number Of Emploee Added:11
+Owner Name:מריק
+ Bussiness He Own:,יהלומים
+ Number Of Emploee Added:33
+Owner Name:אסף
+ Bussiness He Own:,יהלומים
+ Number Of Emploee Added:55
+Owner Name:ניר
+ Bussiness He Own:,ריאקט
+ Number Of Emploee Added:1
+Owner Name:ניר
+ Bussiness He Own:,סי שארפ
+ Number Of Emploee Added:1
+Owner Name:נתקס
+ Bussiness He Own:,שיעור פרטי
+ Number Of Emploee Added:2

@@ -1,0 +1,10 @@
+C:\Users\Cyber\source\repos\WorkWithFiles\WorkWithFiles\bin\Debug\WorkWithFiles.exe.config
+C:\Users\Cyber\source\repos\WorkWithFiles\WorkWithFiles\bin\Debug\WorkWithFiles.exe
+C:\Users\Cyber\source\repos\WorkWithFiles\WorkWithFiles\bin\Debug\WorkWithFiles.pdb
+C:\Users\Cyber\source\repos\WorkWithFiles\WorkWithFiles\obj\Debug\WorkWithFiles.csprojAssemblyReference.cache
+C:\Users\Cyber\source\repos\WorkWithFiles\WorkWithFiles\obj\Debug\WorkWithFiles.Form1.resources
+C:\Users\Cyber\source\repos\WorkWithFiles\WorkWithFiles\obj\Debug\WorkWithFiles.Properties.Resources.resources
+C:\Users\Cyber\source\repos\WorkWithFiles\WorkWithFiles\obj\Debug\WorkWithFiles.csproj.GenerateResource.cache
+C:\Users\Cyber\source\repos\WorkWithFiles\WorkWithFiles\obj\Debug\WorkWithFiles.csproj.CoreCompileInputs.cache
+C:\Users\Cyber\source\repos\WorkWithFiles\WorkWithFiles\obj\Debug\WorkWithFiles.exe
+C:\Users\Cyber\source\repos\WorkWithFiles\WorkWithFiles\obj\Debug\WorkWithFiles.pdb
